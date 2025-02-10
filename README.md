@@ -10,7 +10,7 @@
 | GPU      | AMD Radeon RX560 768SP 2GB D5 with 4 mini-DP         |
 | Ethernet | Realtek RTL8168H                                    |
 | Wi-Fi    | Intel AX210 160MHz                                   |
-| Version  | 14.4 Sonoma                                          |
+| Version  | 14.7 Sonoma                                          |
 
 ## What's working
 
